@@ -23,7 +23,6 @@ write(*,*)
 !Second digit describing the distance of maximum camber from the airfoil leading edge in tenths of the chord.
 !Last two digits describing maximum thickness of the airfoil as percent of the chord.
 !taking user input through variables 
-!All coordinates are normalised to a chord value of 1.0.
 !--------------------------------------------------------------------------------------!
 write(*,*)"Enter the first digit of the airfoil: "
 write(*,*)
